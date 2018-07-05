@@ -27,7 +27,8 @@ def adding_report():
                         return print("Wrong input.")
 
             else:
-                return print("Input is wrong.")
+                return print("Input is wrong..")
 
 
 adding_report()
+
